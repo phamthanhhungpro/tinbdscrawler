@@ -1,0 +1,7 @@
+- Giải nén file
+- Sửa file config.json để cài đặt các page cần cào ( current là page mới nhất, endPi là page cuối muốn cào)
+- Current bắt đầu từ 0
+- Mở CMD tại thư mục sau khi giải nén
+- Chạy lệnh: npm install -f
+- Sau đó chạy lênh: node .\scape.js
+- Đợi chạy xong check file csv được tạo ra tại thư mục này
